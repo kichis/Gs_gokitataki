@@ -5,5 +5,5 @@
 - HTML5
 - CSS3
 - Bootstrap 4.4.1
-- Javazscript
+- JavaScript
 - jQuery 2.3.1 min
